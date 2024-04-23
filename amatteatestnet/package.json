@@ -1,7 +1,6 @@
 {
-  "name": "amatteatestnet",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@amatayaj2001/amatteatestnet",
+  "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,5 +21,17 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.2"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amatayaj/amatteatestnet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amatayaj/amatteatestnet/issues"
+  },
+  "homepage": "https://github.com/amatayaj/amatteatestnet#readme"
 }
